@@ -1,0 +1,45 @@
+/* @font-face {
+    font-family: notoserif-thin;
+    src: url(../font/NotoSerifKhmer-Thin.ttf);
+} */
+h2{
+    font-variant: small-caps;
+    text-align: center;
+    color: darkblue;
+    letter-spacing: 2px;
+    margin-top: 3%;
+}
+.container{
+    background-color: whitesmoke;
+    width: 70%;
+    margin-left: 15%;
+    border-style: solid;
+    border-color: blue;
+}
+span{
+    letter-spacing: 2px;
+    font-variant: small-caps;
+    color: darkblue;
+    font-size: larger;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.welcome{
+    padding-left: 10px;
+}
+.Description{
+    font-family: monospace;
+    padding-left: 10px;
+}
+hr{
+    width: 99%;
+}
+table{
+    background-color: lightskyblue;
+    border-collapse: collapse;
+    letter-spacing: 2px; 
+    margin-left: 25px;
+    margin-bottom: 3%;
+}
+.specific{
+    padding-left: 10px;}
